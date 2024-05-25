@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8927F857-F18B-44B0-8E8D-F82FAD19BD3C}|WebLinhKienDienTu15\\WebLinhKienDienTu15.csproj|c:\\users\\pc\\desktop\\weblinhkiendientu\\weblinhkiendientu15\\weblinhkiendientu15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8927F857-F18B-44B0-8E8D-F82FAD19BD3C}|WebLinhKienDienTu15\\WebLinhKienDienTu15.csproj|solutionrelative:weblinhkiendientu15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8927F857-F18B-44B0-8E8D-F82FAD19BD3C}|WebLinhKienDienTu15\\WebLinhKienDienTu15.csproj|c:\\users\\pc\\desktop\\weblinhkiendientu\\weblinhkiendientu15\\weblinhkiendientu15\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8927F857-F18B-44B0-8E8D-F82FAD19BD3C}|WebLinhKienDienTu15\\WebLinhKienDienTu15.csproj|solutionrelative:weblinhkiendientu15\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8927F857-F18B-44B0-8E8D-F82FAD19BD3C}|WebLinhKienDienTu15\\WebLinhKienDienTu15.csproj|c:\\users\\pc\\desktop\\weblinhkiendientu\\weblinhkiendientu15\\weblinhkiendientu15\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8927F857-F18B-44B0-8E8D-F82FAD19BD3C}|WebLinhKienDienTu15\\WebLinhKienDienTu15.csproj|solutionrelative:weblinhkiendientu15\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8927F857-F18B-44B0-8E8D-F82FAD19BD3C}|WebLinhKienDienTu15\\WebLinhKienDienTu15.csproj|c:\\users\\pc\\desktop\\weblinhkiendientu\\weblinhkiendientu15\\weblinhkiendientu15\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8927F857-F18B-44B0-8E8D-F82FAD19BD3C}|WebLinhKienDienTu15\\WebLinhKienDienTu15.csproj|solutionrelative:weblinhkiendientu15\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8927F857-F18B-44B0-8E8D-F82FAD19BD3C}|WebLinhKienDienTu15\\WebLinhKienDienTu15.csproj|c:\\users\\pc\\desktop\\weblinhkiendientu\\weblinhkiendientu15\\weblinhkiendientu15\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8927F857-F18B-44B0-8E8D-F82FAD19BD3C}|WebLinhKienDienTu15\\WebLinhKienDienTu15.csproj|solutionrelative:weblinhkiendientu15\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8927F857-F18B-44B0-8E8D-F82FAD19BD3C}|WebLinhKienDienTu15\\WebLinhKienDienTu15.csproj|c:\\users\\pc\\desktop\\weblinhkiendientu\\weblinhkiendientu15\\weblinhkiendientu15\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8927F857-F18B-44B0-8E8D-F82FAD19BD3C}|WebLinhKienDienTu15\\WebLinhKienDienTu15.csproj|solutionrelative:weblinhkiendientu15\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FC2B49-1827-4ACA-B983-08E373354BF3}|QLBH.DAL\\QLBH.DAL.csproj|c:\\users\\pc\\desktop\\weblinhkiendientu\\weblinhkiendientu15\\qlbh.dal\\cartrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FC2B49-1827-4ACA-B983-08E373354BF3}|QLBH.DAL\\QLBH.DAL.csproj|solutionrelative:qlbh.dal\\cartrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97335BBB-9C19-4531-B916-4288A234DD5E}|QLBH.BLL\\QLBH.BLL.csproj|c:\\users\\pc\\desktop\\weblinhkiendientu\\weblinhkiendientu15\\qlbh.bll\\usersvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97335BBB-9C19-4531-B916-4288A234DD5E}|QLBH.BLL\\QLBH.BLL.csproj|solutionrelative:qlbh.bll\\usersvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97335BBB-9C19-4531-B916-4288A234DD5E}|QLBH.BLL\\QLBH.BLL.csproj|c:\\users\\pc\\desktop\\weblinhkiendientu\\weblinhkiendientu15\\qlbh.bll\\cartsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97335BBB-9C19-4531-B916-4288A234DD5E}|QLBH.BLL\\QLBH.BLL.csproj|solutionrelative:qlbh.bll\\cartsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97335BBB-9C19-4531-B916-4288A234DD5E}|QLBH.BLL\\QLBH.BLL.csproj|c:\\users\\pc\\desktop\\weblinhkiendientu\\weblinhkiendientu15\\qlbh.bll\\categorysvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97335BBB-9C19-4531-B916-4288A234DD5E}|QLBH.BLL\\QLBH.BLL.csproj|solutionrelative:qlbh.bll\\categorysvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97335BBB-9C19-4531-B916-4288A234DD5E}|QLBH.BLL\\QLBH.BLL.csproj|c:\\users\\pc\\desktop\\weblinhkiendientu\\weblinhkiendientu15\\qlbh.bll\\productsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97335BBB-9C19-4531-B916-4288A234DD5E}|QLBH.BLL\\QLBH.BLL.csproj|solutionrelative:qlbh.bll\\productsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FC2B49-1827-4ACA-B983-08E373354BF3}|QLBH.DAL\\QLBH.DAL.csproj|c:\\users\\pc\\desktop\\weblinhkiendientu\\weblinhkiendientu15\\qlbh.dal\\categoryrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FC2B49-1827-4ACA-B983-08E373354BF3}|QLBH.DAL\\QLBH.DAL.csproj|solutionrelative:qlbh.dal\\categoryrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FC2B49-1827-4ACA-B983-08E373354BF3}|QLBH.DAL\\QLBH.DAL.csproj|c:\\users\\pc\\desktop\\weblinhkiendientu\\weblinhkiendientu15\\qlbh.dal\\productrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FC2B49-1827-4ACA-B983-08E373354BF3}|QLBH.DAL\\QLBH.DAL.csproj|solutionrelative:qlbh.dal\\productrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FC2B49-1827-4ACA-B983-08E373354BF3}|QLBH.DAL\\QLBH.DAL.csproj|c:\\users\\pc\\desktop\\weblinhkiendientu\\weblinhkiendientu15\\qlbh.dal\\userrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FC2B49-1827-4ACA-B983-08E373354BF3}|QLBH.DAL\\QLBH.DAL.csproj|solutionrelative:qlbh.dal\\userrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FC2B49-1827-4ACA-B983-08E373354BF3}|QLBH.DAL\\QLBH.DAL.csproj|c:\\users\\pc\\desktop\\weblinhkiendientu\\weblinhkiendientu15\\qlbh.dal\\models\\webdientu15context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FC2B49-1827-4ACA-B983-08E373354BF3}|QLBH.DAL\\QLBH.DAL.csproj|solutionrelative:qlbh.dal\\models\\webdientu15context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\StartUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\WebLinhKienDienTu15\\Startup.cs",
+              "RelativeDocumentMoniker": "WebLinhKienDienTu15\\Startup.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\WebLinhKienDienTu15\\Startup.cs",
+              "RelativeToolTip": "WebLinhKienDienTu15\\Startup.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAGgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:40:01.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\WebLinhKienDienTu15\\Program.cs",
+              "RelativeDocumentMoniker": "WebLinhKienDienTu15\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\WebLinhKienDienTu15\\Program.cs",
+              "RelativeToolTip": "WebLinhKienDienTu15\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:36:07.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\WebLinhKienDienTu15\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebLinhKienDienTu15\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\WebLinhKienDienTu15\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebLinhKienDienTu15\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAqwFAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:30:27.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\WebLinhKienDienTu15\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebLinhKienDienTu15\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\WebLinhKienDienTu15\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebLinhKienDienTu15\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:30:13.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\WebLinhKienDienTu15\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebLinhKienDienTu15\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\WebLinhKienDienTu15\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebLinhKienDienTu15\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:30:00.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\WebLinhKienDienTu15\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebLinhKienDienTu15\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\WebLinhKienDienTu15\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebLinhKienDienTu15\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:29:45.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\StartUp.cs",
+              "RelativeDocumentMoniker": "..\\WebLinhKienDienTu\\WebLinhKienDienTu\\StartUp.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\StartUp.cs",
+              "RelativeToolTip": "..\\WebLinhKienDienTu\\WebLinhKienDienTu\\StartUp.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:49:04.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductSvc.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.BLL\\ProductSvc.cs",
+              "RelativeDocumentMoniker": "QLBH.BLL\\ProductSvc.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.BLL\\ProductSvc.cs",
+              "RelativeToolTip": "QLBH.BLL\\ProductSvc.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAcwGYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:49:51.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserSvc.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.BLL\\UserSvc.cs",
+              "RelativeDocumentMoniker": "QLBH.BLL\\UserSvc.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.BLL\\UserSvc.cs",
+              "RelativeToolTip": "QLBH.BLL\\UserSvc.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAIwJwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:49:49.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartRep.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.DAL\\CartRep.cs",
+              "RelativeDocumentMoniker": "QLBH.DAL\\CartRep.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.DAL\\CartRep.cs",
+              "RelativeToolTip": "QLBH.DAL\\CartRep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:49:44.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryRep.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.DAL\\CategoryRep.cs",
+              "RelativeDocumentMoniker": "QLBH.DAL\\CategoryRep.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.DAL\\CategoryRep.cs",
+              "RelativeToolTip": "QLBH.DAL\\CategoryRep.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAcwFMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:49:41.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductRep.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.DAL\\ProductRep.cs",
+              "RelativeDocumentMoniker": "QLBH.DAL\\ProductRep.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.DAL\\ProductRep.cs",
+              "RelativeToolTip": "QLBH.DAL\\ProductRep.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:49:38.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRep.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.DAL\\UserRep.cs",
+              "RelativeDocumentMoniker": "QLBH.DAL\\UserRep.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.DAL\\UserRep.cs",
+              "RelativeToolTip": "QLBH.DAL\\UserRep.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwF0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:49:35.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WebLinhKienDienTu\\WebLinhKienDienTu\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\Program.cs",
+              "RelativeToolTip": "..\\WebLinhKienDienTu\\WebLinhKienDienTu\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:47:29.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategorySvc.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.BLL\\CategorySvc.cs",
+              "RelativeDocumentMoniker": "QLBH.BLL\\CategorySvc.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.BLL\\CategorySvc.cs",
+              "RelativeToolTip": "QLBH.BLL\\CategorySvc.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAcwFsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:49:53.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartSvc.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.BLL\\CartSvc.cs",
+              "RelativeDocumentMoniker": "QLBH.BLL\\CartSvc.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.BLL\\CartSvc.cs",
+              "RelativeToolTip": "QLBH.BLL\\CartSvc.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAcwGEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:49:55.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "..\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\CartController.cs",
+              "RelativeToolTip": "..\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\CartController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:49:31.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "..\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "..\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\CategoryController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:49:26.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "..\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\ProductController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:49:24.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\WebLinhKienDienTu\\WebLinhKienDienTu\\Controllers\\UserController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:49:20.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebDienTu15Context.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.DAL\\Models\\WebDienTu15Context.cs",
+              "RelativeDocumentMoniker": "QLBH.DAL\\Models\\WebDienTu15Context.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\WebLinhKienDienTu\\WebLinhKienDienTu15\\QLBH.DAL\\Models\\WebDienTu15Context.cs",
+              "RelativeToolTip": "QLBH.DAL\\Models\\WebDienTu15Context.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:48:41.367Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
